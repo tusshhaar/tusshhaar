@@ -15,7 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fghjnjn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fghjnjn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tushar-trivedi-1455841a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tushar-trivedi-1455841a9/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/triveditushar14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/triveditushar14" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
