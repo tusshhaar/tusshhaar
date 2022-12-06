@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Trivedi</h1>
-<h3 align="center">A passionate Backened developer from India</h3>
+<h3 align="center">A passionate Java Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusshhaar&label=Profile%20views&color=0e75b6&style=flat" alt="tusshhaar" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **triveditushar14@gmail.com**
 
-- 📄 Know about my experiences [file:///G:/Resume_Web/Tushar_Trivedi_Resume.pdf](file:///G:/Resume_Web/Tushar_Trivedi_Resume.pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1j8L3ON0qinxKj4ANPBVhP5dYEKk69FgK/view?usp=sharing](https://drive.google.com/file/d/1j8L3ON0qinxKj4ANPBVhP5dYEKk69FgK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
