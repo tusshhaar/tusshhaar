@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **triveditushar14@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](https://tusshhaar.github.io/)
+- 📄 See my projects [Portfolio](https://tusshhaar.github.io/)
+
+- Know my experience [Resume](https://drive.google.com/file/d/1j8L3ON0qinxKj4ANPBVhP5dYEKk69FgK/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
  <div align="center" >
