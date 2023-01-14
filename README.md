@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, JavaScript, Spring Boot**
 
-- 💬 Ask me about **Java And JavaScript**
+- 💬 Ask me about **Java, JavaScript, Spring, Hibernate, SpringBoot**
 
 - 📫 How to reach me **triveditushar14@gmail.com**
 
